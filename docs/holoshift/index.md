@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # HoloShift
 
-BOOTH商品ページ: [https://ag-works.booth.pm/items/8767429](https://ag-works.booth.pm/items/8767429)
+<img src="/PECOPECO-DO-Document/img/items/holoShi.png" width="450" alt="Holoshiftサムネ" />
 
 ---
 

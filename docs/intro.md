@@ -14,9 +14,9 @@ sidebar_position: 1
 
 ## 頒布商品マニュアル一覧
 
-### 📦 HoloShift
-- [📖 マニュアルを見る](/docs/holoshift)
-- [🛍️ BOOTHで購入する](https://ag-works.booth.pm/items/8767429)
+### HoloShift
+- [マニュアルを見る](/docs/holoshift)
+- [BOOTHで購入する](https://ag-works.booth.pm/items/8767429)
 
 ---
 
@@ -25,3 +25,4 @@ sidebar_position: 1
 商品に関する不具合報告やご質問は、BOOTHのメッセージ機能またはX (Twitter) までお問い合わせください。
 
 - **BOOTH Shop**: [https://ag-works.booth.pm/](https://ag-works.booth.pm/)
+- **X(旧Twitter)**: [https://x.com/Pecosenpai_CN](https://x.com/Pecosenpai_CN)
