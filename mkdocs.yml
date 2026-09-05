@@ -1,0 +1,30 @@
+site_name: PECOPECO-DO Documentation
+
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.suggest
+
+extra:
+  social:
+    - icon: fontawesome/brands/bootstrap
+      link: https://ag-works.booth.pm/
+      name: BOOTH Shop
+
+nav:
+  - トップページ: index.md
+  - アイテム8767429:
+      - 概要: item-8767429/index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
