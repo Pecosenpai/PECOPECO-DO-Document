@@ -1,0 +1,88 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 3rem 0;
+  width: 100%;
+}
+
+.sectionTitle {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.sectionSubtitle {
+  font-size: 1.1rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.cardCol {
+  margin-bottom: 2rem;
+}
+
+.productCard {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  background-color: var(--ifm-card-background-color);
+}
+
+.productCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+.cardHeaderFlex {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.cardIcon {
+  font-size: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardTitle {
+  margin-bottom: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.badge {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 9999px;
+  vertical-align: middle;
+}
+
+.cardBody {
+  flex-grow: 1;
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.cardFooter {
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--ifm-color-emphasis-100);
+}
+
+.buttonGroup {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem;
+}
+
+@media screen and (max-width: 576px) {
+  .buttonGroup {
+    grid-template-columns: 1fr;
+  }
+}
