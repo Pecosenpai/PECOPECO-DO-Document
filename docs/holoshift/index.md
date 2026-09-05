@@ -10,9 +10,9 @@ sidebar_position: 1
 
 ---
 
-## 概要
+## 商品概要
 
-ワンクリックで変身可能なホログラムエフェクトシェーダー「HoloShift」の公式マニュアルです。
+ワンクリックで変身可能なホログラムエフェクトシェーダー「HoloShift」です。
 
 - **ワンクリック変換**
 - **全アバター対応**
@@ -26,7 +26,7 @@ sidebar_position: 1
 
 ---
 
-## 動作環境・必要アセット
+## 動作環境・必要なパッケージ
 
 - **Unity**: 2022.3.22f1
 - **Modular Avatar**: 最新版推奨
@@ -34,29 +34,12 @@ sidebar_position: 1
 - **Animator As Code V1 - VRChat**: 1.1.2
 - **Animator As Code V1 - Modular Avatar functions**: 1.1.2
 
+# リンクページ
+- **Modular Avatar**: [https://modular-avatar.nadena.dev/ja](https://modular-avatar.nadena.dev/ja)
+- **Animator As Code V1**: [https://docs.hai-vr.dev/docs/products/listing](https://docs.hai-vr.dev/docs/products/listing)
+　<img src="/PECOPECO-DO-Document/img/AacLink.png" width="450" className="blue-frame-thick" alt="Aacリンク先画像"/>
 ---
+## 注意事項
 
-## 導入手順
-
-1. Unityプロジェクトを開きます。
-2. 事前に Modular Avatar などの前提パッケージをインポートします。
-3. 本商品の `.unitypackage` をインポートします。
-4. Prefabをアバターのヒエラルキーにドラッグ＆ドロップして配置します。
-
-:::tip ヒント
-詳しい設定やパラメーターの調整方法は各セクションをご覧ください。
-:::
-
----
-
-## よくある質問 (FAQ)
-
-### Q. シェーダーが正常に適用されない
-**A.** Modular Avatar が最新バージョンになっているか、および必要なテクスチャ・マテリアルが揃っているかご確認ください。
-
----
-
-## 利用規約
-
-本データの著作権は「ぺこぺこ堂」に帰属します。
-詳細な規約についてはBOOTHの商品ページをご確認ください。
+- 本商品はQuest対応していません。
+- 上記のパッケージを導入していない場合、シェーダー・マテリアル自体は使えますが、MAメニューの自動生成機能は動作しません。

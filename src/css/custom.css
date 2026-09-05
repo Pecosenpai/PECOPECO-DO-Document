@@ -41,3 +41,37 @@
   font-weight: 700;
   font-size: 1.15rem;
 }
+
+/* ===================================================
+ * ドキュメント用カスタム画像スタイル (青枠線など)
+ * =================================================== */
+
+/* 青い枠線（標準・角丸・影付き） */
+.blue-frame {
+  border: 2px solid var(--ifm-color-primary);
+  border-radius: 8px;
+  box-shadow: 0 4px 14px rgba(24, 119, 242, 0.18);
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+[data-theme='dark'] .blue-frame {
+  box-shadow: 0 4px 14px rgba(59, 130, 246, 0.25);
+}
+
+/* 太めの青い枠線 (3px) */
+.blue-frame-thick {
+  border: 3px solid var(--ifm-color-primary);
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(24, 119, 242, 0.22);
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* 画像を中央寄せにするコンテナ用 */
+.img-center {
+  text-align: center;
+  margin: 1.5rem 0;
+}
