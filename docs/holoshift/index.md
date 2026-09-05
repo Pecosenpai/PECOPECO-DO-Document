@@ -28,9 +28,11 @@ sidebar_position: 1
 
 ## 動作環境・必要アセット
 
-- **Unity**: 2022.3.x 以降推奨
-- **VRCSDK**: 3.x
+- **Unity**: 2022.3.22f1
 - **Modular Avatar**: 最新版推奨
+- **Animator As Code V1**: 1.2.0
+- **Animator As Code V1 - VRChat**: 1.1.2
+- **Animator As Code V1 - Modular Avatar functions**: 1.1.2
 
 ---
 
