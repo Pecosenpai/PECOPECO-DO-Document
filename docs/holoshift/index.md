@@ -37,7 +37,7 @@ sidebar_position: 1
 # リンクページ
 - **Modular Avatar**: [https://modular-avatar.nadena.dev/ja](https://modular-avatar.nadena.dev/ja)
 - **Animator As Code V1**: [https://docs.hai-vr.dev/docs/products/listing](https://docs.hai-vr.dev/docs/products/listing)
-　<img src={require('@site/static/img/Aac.png').default} width="450" alt="Aacのリンク先画像" />
+　<img src={require('@site/static/img/AacLink.png').default} width="450" alt="Aacのリンク先画像" />
 ---
 ## 注意事項
 
