@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # HoloShift
 
-<img src={require('@site/static/img/items/holoShi.png').default} width="450" alt="Holoshiftサムネ" />
+<img src={require('@site/static/img/items/HoloShi.png').default} width="450" alt="Holoshiftサムネ" />
 
 ---
 
