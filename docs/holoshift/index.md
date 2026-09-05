@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # HoloShift
 
-<img src="/PECOPECO-DO-Document/img/items/holoShi.png" width="450" alt="Holoshiftサムネ" />
+<img src={require('@site/static/img/items/holoShi.png').default} width="450" alt="Holoshiftサムネ" />
 
 ---
 
@@ -37,7 +37,7 @@ sidebar_position: 1
 # リンクページ
 - **Modular Avatar**: [https://modular-avatar.nadena.dev/ja](https://modular-avatar.nadena.dev/ja)
 - **Animator As Code V1**: [https://docs.hai-vr.dev/docs/products/listing](https://docs.hai-vr.dev/docs/products/listing)
-　<img src="/PECOPECO-DO-Document/img/AacLink.png" width="450" className="blue-frame-thick" alt="Aacリンク先画像"/>
+　<img src={require('@site/static/img/Aac.png').default} width="450" alt="Aacのリンク先画像" />
 ---
 ## 注意事項
 
