@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'ぺこぺこ堂 ドキュメント',
   tagline: 'PECOPECO-DO Official Documentation Portal',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/PECOPECO-DO.ico',
 
   // GitHub Pages deployment config.
   url: 'https://pecosenpai.github.io',
