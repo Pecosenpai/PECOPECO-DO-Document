@@ -14,8 +14,8 @@ sidebar_position: 1
 
 ## 頒布商品マニュアル一覧
 
-### 📦 アイテム8767429
-- [📖 マニュアルを見る](./item-8767429/index.md)
+### 📦 HoloShift
+- [📖 マニュアルを見る](/docs/holoshift)
 - [🛍️ BOOTHで購入する](https://ag-works.booth.pm/items/8767429)
 
 ---

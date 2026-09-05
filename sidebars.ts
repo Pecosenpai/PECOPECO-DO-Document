@@ -8,7 +8,7 @@ const sidebars: SidebarsConfig = {
       label: '📦 頒布商品マニュアル',
       collapsible: false,
       items: [
-        'item-8767429/index',
+        'holoshift/index',
       ],
     },
   ],

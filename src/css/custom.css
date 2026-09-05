@@ -29,6 +29,11 @@
   --ifm-color-primary-lighter: #93c5fd;
   --ifm-color-primary-lightest: #bfdbfe;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+  /* ダークモード時のナビゲーションバー設定 */
+  --ifm-navbar-background-color: #0f172a;
+  --ifm-navbar-link-color: #ffffff;
+  --ifm-navbar-link-hover-color: #60a5fa;
 }
 
 /* ページ全体のフォントや要素の微調整 */

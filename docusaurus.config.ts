@@ -55,7 +55,7 @@ const config: Config = {
       title: 'ぺこぺこ堂',
       logo: {
         alt: 'PECOPECO-DO Logo',
-        src: 'img/logo.svg',
+        src: 'img/PECOPECODO_LOGO.png',
       },
       items: [
         {
@@ -66,7 +66,7 @@ const config: Config = {
         },
         {
           href: 'https://ag-works.booth.pm/',
-          label: 'BOOTH ショップ 🛍️',
+          label: 'BOOTH ショップへ',
           position: 'right',
         },
         {
@@ -87,8 +87,8 @@ const config: Config = {
               to: '/docs/intro',
             },
             {
-              label: 'アイテム8767429',
-              to: '/docs/item-8767429',
+              label: 'HoloShift',
+              to: '/docs/holoshift',
             },
           ],
         },
@@ -99,14 +99,9 @@ const config: Config = {
               label: 'BOOTH ショップ',
               href: 'https://ag-works.booth.pm/',
             },
-          ],
-        },
-        {
-          title: 'その他',
-          items: [
             {
-              label: 'GitHub Repository',
-              href: 'https://github.com/pecosenpai/PECOPECO-DO-Document',
+              label: '公式X (Twitter)',
+              href: 'https://x.com/Pecosenpai_CN',
             },
           ],
         },
