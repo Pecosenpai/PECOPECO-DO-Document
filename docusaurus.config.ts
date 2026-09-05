@@ -69,11 +69,6 @@ const config: Config = {
           label: 'BOOTH ショップへ',
           position: 'right',
         },
-        {
-          href: 'https://github.com/pecosenpai/PECOPECO-DO-Document',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
