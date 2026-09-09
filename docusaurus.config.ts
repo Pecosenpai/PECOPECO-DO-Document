@@ -27,6 +27,9 @@ const config: Config = {
     locales: ['ja'],
   },
 
+  // ★画像拡大プラグインを追加
+  plugins: ['docusaurus-plugin-image-zoom'],
+
   presets: [
     [
       'classic',
@@ -51,6 +54,20 @@ const config: Config = {
       disableSwitch: false,
       respectPrefersColorScheme: true,
     },
+
+    // ★画像拡大（Zoom）の設定
+    zoom: {
+      selector: '.markdown img:not(.no-zoom)',
+      background: {
+        light: 'rgba(255, 255, 255, 0.9)',
+        dark: 'rgba(0, 0, 0, 0.9)',
+      },
+      // ★ 拡大時の設定を（数字を大きくすると画像が小さくなります）
+      config: {
+          margin: 70, //デフォルトは24
+      },
+    },
+
     navbar: {
       title: 'ぺこぺこ堂',
       logo: {

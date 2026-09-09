@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # HoloShift
 
-<img src={require('@site/static/img/items/HoloShi.png').default} width="450" alt="Holoshiftサムネ" />
+<img src={require('@site/static/img/items/HoloShi.png').default} width="500" className="no-zoom" alt="Holoshiftサムネ" />
 
 ---
 
@@ -34,10 +34,6 @@ sidebar_position: 1
 - **Animator As Code V1 - VRChat**: 1.1.2
 - **Animator As Code V1 - Modular Avatar functions**: 1.1.2
 
-# リンクページ
-- **Modular Avatar**: [https://modular-avatar.nadena.dev/ja](https://modular-avatar.nadena.dev/ja)
-- **Animator As Code V1**: [https://docs.hai-vr.dev/docs/products/listing](https://docs.hai-vr.dev/docs/products/listing)
-　<img src={require('@site/static/img/AacLink.png').default} width="450" alt="Aacのリンク先画像" />
 ---
 ## 注意事項
 
