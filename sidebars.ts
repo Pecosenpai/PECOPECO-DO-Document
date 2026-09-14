@@ -15,6 +15,7 @@ const sidebars: SidebarsConfig = {
         'holoshift/quickstart',//簡単な使い方
         'holoshift/details', //詳細設定
         'holoshift/faq',
+        'holoshift/render_queue',
       ],
     },
   ],
